@@ -46,7 +46,7 @@ img {
   max-height: 500px;
   width: 100%;
   user-select: none;
-  object-fit:cover;
+  object-fit:contain;
 }
 
 .paper.heart::after {
